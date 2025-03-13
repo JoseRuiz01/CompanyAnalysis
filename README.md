@@ -1,1 +1,1 @@
-# POSCompanyAnalysis
+# Point of Sales Company Analysis
