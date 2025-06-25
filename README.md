@@ -1,1 +1,1 @@
-# Point of Sales Company Analysis
+# Different Companies Analysis and Propossal
