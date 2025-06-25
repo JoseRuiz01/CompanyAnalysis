@@ -1,1 +1,1 @@
-# Different Companies Analysis and Propossal
+# Different Bussiness Analysis and Propossal
