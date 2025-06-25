@@ -1,1 +1,1 @@
-# Different Bussiness Analysis and Propossal
+# Different Bussiness Analysis and Proposal
